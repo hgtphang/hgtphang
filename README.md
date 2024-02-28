@@ -1,5 +1,10 @@
 <h1 align="">👋 Hello, I'm Hung Phang</h1>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/hgt-phang/"><img src="https://img.shields.io/badge/LinkedIn-%20-blue"></a>
+  <a href="mailto:hungtai.phang@drexel.edu"><img src="https://img.shields.io/badge/Email-%20-red"></a>
+</p>
+
 <!--
 **hgtphang/hgtphang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
