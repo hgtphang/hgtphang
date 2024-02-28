@@ -12,17 +12,17 @@
 - 🛠️ Working on various exciting projects to sharpen my skills
 - 👥 Looking to collaborate on open-source projects
 - 🤝 Let's connect and grow together!
-<!--
-**hgtphang/hgtphang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 
+<h2 align="left"> ⚙ Technologies & Tools</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql"></a>
+</p>
