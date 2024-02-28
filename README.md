@@ -18,11 +18,11 @@
 
 <p align="left">
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></a>
-  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql"></a>
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 </p>
