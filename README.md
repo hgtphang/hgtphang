@@ -5,6 +5,13 @@
   <a href="mailto:hungtai.phang@drexel.edu"><img src="https://img.shields.io/badge/Email-%20-red"></a>
 </p>
 
+<h2 align="left">🚀 About Me</h2>
+
+- 👨‍💻 Passionate programmer based in the US
+- 🌱 Constantly learning and exploring new technologies
+- 🛠️ Working on various exciting projects to sharpen my skills
+- 👥 Looking to collaborate on open-source projects
+- 🤝 Let's connect and grow together!
 <!--
 **hgtphang/hgtphang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
