@@ -17,6 +17,7 @@
 <h2 align="left"> ⚙ Technologies & Tools</h2>
 
 <p align="left">
+  <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></a>
   <a href="#"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
